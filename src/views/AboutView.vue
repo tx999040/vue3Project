@@ -1,6 +1,7 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
+    <el-button>验证修改页面 ----</el-button>
   </div>
 </template>
 
